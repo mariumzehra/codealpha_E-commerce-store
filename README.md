@@ -1,2 +1,11 @@
-# codealpha_E-commerce-store
-An e-commerce store is an online platform that allows businesses or individuals to sell products or services over the internet. It provides customers with a convenient way to browse items, compare prices, and make purchases from anywhere at any time. These stores typically include features such as product listings, shopping carts, etc
+
+  # E-commerce store development
+
+  This is a code bundle for E-commerce store development. The original project is available at https://www.figma.com/design/eV4HPUhiod7DO7KOf9zKFw/E-commerce-store-development.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
