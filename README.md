@@ -3,11 +3,18 @@ It typically includes product listings with images and descriptions, search and 
 
  features:
 
-Product Catalog: Displays products with images, descriptions, prices, and availability. Items are organized into categories for easy browsing.
-Search & Filters: Helps users quickly find products using keywords, categories, price ranges, or ratings.
-Shopping Cart: Allows customers to add, remove, or update items before purchasing.
-Secure Checkout: Ensures safe transactions with encryption and secure payment gateways.
-Multiple Payment Options: Supports credit/debit cards, bank transfers, digital wallets, and sometimes cash on delivery.
-User Accounts:  Customers can create accounts to save personal details, track orders, and view purchase history.
-Order Management: Tracks orders from placement to delivery, including shipping status and notifications.
-Reviews & Ratings:Customers can share feedback, helping others make informed decisions.
+1.Product Catalog: Displays products with images, descriptions, prices, and availability. Items are organized into categories for easy browsing.
+
+2.Search & Filters: Helps users quickly find products using keywords, categories, price ranges, or ratings.
+
+3. Shopping Cart: Allows customers to add, remove, or update items before purchasing.
+   
+4.Secure Checkout: Ensures safe transactions with encryption and secure payment gateways.
+
+5. Multiple Payment Options: Supports credit/debit cards, bank transfers, digital wallets, and sometimes cash on delivery.
+   
+6. User Accounts:  Customers can create accounts to save personal details, track orders, and view purchase history.
+   
+7.Order Management: Tracks orders from placement to delivery, including shipping status and notifications.
+
+8. Reviews & Ratings:Customers can share feedback, helping others make informed decisions.
