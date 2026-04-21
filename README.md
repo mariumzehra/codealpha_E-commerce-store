@@ -13,7 +13,7 @@ Store owners can add, edit, and manage products with detailed descriptions, imag
 Advanced search functionality allows users to find products quickly using keywords. Filters such as price range, size, color, brand, and ratings help narrow down choices and improve the shopping experience.
 
 **4. Shopping Cart and Checkout System**
-Customers can add items to a shopping cart and review their selections before purchasing. A streamlined checkout process minimizes steps and allows users to enter shipping details, apply discounts, and complete transactions بسهولة.
+Customers can add items to a shopping cart and review their selections before purchasing. A streamlined checkout process minimizes steps and allows users to enter shipping details, apply discounts, and complete transactions 
 
 **5. Multiple Payment Options**
 E-commerce stores support various payment methods including credit/debit cards, digital wallets, bank transfers, and cash on delivery. Secure payment gateways ensure safe transactions.
